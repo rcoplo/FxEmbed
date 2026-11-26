@@ -1,4 +1,4 @@
-name = "fixtweet"
+name = "fxembed"
 account_id = "e413af5aa556ea8c333599999b8a02e1"
 main = "./dist/worker.js"
 compatibility_date = "2026-04-11"
